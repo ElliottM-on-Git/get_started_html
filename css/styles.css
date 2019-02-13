@@ -100,6 +100,7 @@ aside h2 {
 
 .quotation p {
   font-style: italic;
+  margin-left: 10pt;
   align-items: center;
 }
 
