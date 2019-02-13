@@ -24,13 +24,13 @@ body {
 }
 
 a {
-  color: red;
+  color: #52d3aa;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #52d3aa;
+  color: red;
   outline: none;
   text-decoration: none;
 }
