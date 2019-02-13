@@ -59,10 +59,10 @@ nav {
 }
 
 nav {
-  color: blue;
+  color: lime green;
   border: 1px;
-  border-style: dotted;
-  background-color: yellow;
+  border-style: dashed;
+  background-color: purple;
 }
 
 section h1 {
