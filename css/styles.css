@@ -59,7 +59,7 @@ nav {
 }
 
 nav {
-  color: green;
+  color: #32cd32;
   border: 1px;
   border-style: dashed;
   background-color: purple;
@@ -72,10 +72,14 @@ section h1 {
 
 article {
   border: 1px;
+  border-style: solid;
+  border-color: blue;
+  padding: 10pt;
+  margin: 10pt;
 }
 
 article header {
-  font-style: italic;
+  font-style: bold;
 }
 
 article p {
