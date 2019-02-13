@@ -30,7 +30,7 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: red;
+  color: #52d3aa;
   outline: none;
   text-decoration: none;
 }
@@ -44,7 +44,7 @@ p.important {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #000;
+  color: red;
   font-family: "Work Sans", Arial, sans-serif;
   font-weight: 300;
   margin: 0 0 30px 0;
