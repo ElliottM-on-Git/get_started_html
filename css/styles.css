@@ -20,6 +20,7 @@ body {
   body {
     font-size: 17px;
     line-height: 1.5;
+    align-items: center
   }
 }
 
@@ -73,7 +74,7 @@ section h1 {
 article {
   border: 1px;
   border-style: solid;
-  border-color: #32cd32;
+  border-color: blue;
   padding: 10pt;
   margin: 10pt;
 }
