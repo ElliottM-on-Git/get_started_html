@@ -14,7 +14,7 @@ body {
   color: #7f7f7f;
   background: yellow;
   height: 100%;
-  position: center;
+  position: relative;
 }
 @media screen and (max-width: 768px) {
   body {
