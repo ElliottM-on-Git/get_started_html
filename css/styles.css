@@ -73,7 +73,7 @@ section h1 {
 article {
   border: 1px;
   border-style: solid;
-  border-color: blue;
+  border-color: #32cd32;
   padding: 10pt;
   margin: 10pt;
 }
